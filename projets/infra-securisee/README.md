@@ -19,7 +19,11 @@ Concevoir et sécuriser une infrastructure de type entreprise avec segmentation 
 - Création de l'infrastructure de base sur GNS3 avec des VM VirtualBox
 - Création d'un bastion pour l'administration interne (via SSH + HTTPS)
 - Création d'un serveur de sauvegarde :
-    - PAS TERMINÉ
+    - Sauvegarde automatisée via systemd timers : exécution régulière des jobs de backup + traçabilité dans journald et dans un fichier de log central.
+    - Modèle "pull" sécurisé : le serveur de sauvegarde initie les connexions SSH avec une clé dédiée vers un compte distant restreint et ne récupère que des répertoires ciblés.
+    - Stockage en 2 niveaux : current/ reflète l’état le plus récent, puis création de snapshots horodatés.
+    - Protection des données sensibles : exclusions explicites de secrets, avec whitelisting sur certains dossiers.
+    - Contrôles et restauration : vérification d’intégrité par SHA-256 sur fichiers repères + test de restauration local et "restore bundle" transportable avec SHA256SUMS pour une restauration propre.
 
 ## Schémas
 
