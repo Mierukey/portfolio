@@ -6,7 +6,7 @@ Tout le contenu est soit issu de travaux sur environnements maîtrisés, soit an
 ## Contenu
 - [Certifications](certifications/README.md)
 - [Projet Infrastructure Sécurisée](projets/infra-securisee/README.md)
-- [Extrait de rapport de pentest (fictif)](pentest/rapport-exemple/README.md)
+- [Extrait de rapport de pentest (fictif)](pentests/rapport-exemple/README.md)
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/killianhoarau/
