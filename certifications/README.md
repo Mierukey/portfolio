@@ -1,6 +1,6 @@
 # Certifications
 
-## Validée
+## Validée(s)
 - Blue Team Level 1 (BTL1)
   - Statut : Réussie
   - Preuve : https://www.credly.com/badges/9333fd9c-fe0b-4a5a-b119-d2f151ba47a5/linked_in_profile
@@ -11,7 +11,7 @@
     - Forensics
     - SIEM (Splunk)
 
-## En cours
+## En préparation
 - Hack The Box Certified Penetration Testing Specialist (CPTS)
   - Statut : En préparation
   - Preuve : `preuves/htb-cpts-progression.png`

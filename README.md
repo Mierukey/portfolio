@@ -5,14 +5,8 @@ Tout le contenu est soit issu de travaux sur environnements maîtrisés, soit an
 
 ## Contenu
 - [Certifications](certifications/README.md)
-- [Projet Infrastructure sécurisée](projects/infra-securisee/README.md)
-- [Extrait de rapport de pentest (fictif)](pentest/sample-report/README.md)
-
-## Compétences mises en avant
-- Pentest (méthodologie et rapport)
-- Sécurité infrastructure (segmentation, durcissement, accès)
-- Détection (SIEM, logs, règles de détection)
-- Documentation (synthèse, procédures)
+- [Projet Infrastructure Sécurisée](projets/infra-securisee/README.md)
+- [Extrait de rapport de pentest (fictif)](pentest/rapport-exemple/README.md)
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/killianhoarau/
