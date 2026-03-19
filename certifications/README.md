@@ -14,7 +14,6 @@ Blue Team Level 1 (BTL1)
 ## En préparation
 Hack The Box Certified Penetration Testing Specialist (CPTS)
 - Statut : En préparation
-- Preuve : `preuves/htb-cpts-progression.png`
 - Cours terminés :
   - Penetration Testing Process
   - Getting Started
