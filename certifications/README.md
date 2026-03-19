@@ -27,6 +27,10 @@ Hack The Box Certified Penetration Testing Specialist (CPTS)
   - Attacking Web Applications with Ffuf
   - SQL Injection Fundamentals
   - File Inclusion
+  - SQLMap Essentials
+  - Cross-Site Scripting (XSS)
+  - Linux Privilege Escalation
+  - Login Brute Forcing
 - Cours restants : 
   - Footprinting
   - Shells & Payloads
@@ -34,14 +38,10 @@ Hack The Box Certified Penetration Testing Specialist (CPTS)
   - Attacking Common Services
   - Pivoting, Tunneling, and Port Forwarding
   - Active Directory Enumeration & Attacks
-  - Login Brute Forcing
-  - SQLMap Essentials
-  - Cross-Site Scripting (XSS)
   - File Upload Attacks
   - Command Injections
   - Web Attacks
   - Attacking Common Applications
-  - Linux Privilege Escalation
   - Windows Privilege Escalation
   - Documentation & Reporting
   - Attacking Enterprise Networks
